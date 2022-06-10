@@ -1,5 +1,5 @@
 # brownie_scripts
-Testing out some scripts using Python and Brownie
+Learning some coding using Python and Brownie, following along with a really great substack!
 
 - Oneshotbot.py: This is a swapping script that checks the price of a stable coin (MIM / DAI pair in the example), runs the pricing of a MIM -> WAVAX -> DAI swap and executes if the result is within a defined price point.
 
